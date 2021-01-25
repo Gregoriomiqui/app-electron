@@ -1,0 +1,20 @@
+{
+  "name": "app01-intro",
+  "version": "1.0.0",
+  "description": "aplicacion multiplataforma en electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ." 
+  },
+  "keywords": [
+    "electron",
+    "escritorio",
+    "multiplataforma",
+    "aplicacion"
+  ],
+  "author": "victor lefebres",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.2.1"
+  }
+}
