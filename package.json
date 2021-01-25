@@ -4,7 +4,7 @@
   "description": "aplicacion multiplataforma en electron",
   "main": "main.js",
   "scripts": {
-    "start": "electron ." 
+    "start": "electron ."
   },
   "keywords": [
     "electron",
